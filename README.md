@@ -4,7 +4,7 @@ An AI-powered resume analysis platform that scores resumes, matches them against
 
 ## 🌐 Live Demo
 
-**Frontend:** https://ai-resume-roaster-iota.vercel.app
+**Frontend:** https://talentmatch.ai-iota.vercel.app
 
 ## ✨ Features
 
